@@ -1,0 +1,33 @@
+.container{
+    display:flex;
+}
+.content{
+    flex:1;
+    font-size: 30;
+    color:black ;  
+}
+.triste{
+    flex:2; 
+}
+
+.azul {
+    background-color: #30a7d7;
+}
+
+ul {
+    list-style: none;
+}
+li {
+    display: flex;
+    flex-direction: column;
+    color:
+}
+.branco{
+    color: white;
+}
+.feliz{
+    margin-right: 200px;
+}
+.GOSTOSO{
+    display: flex;
+}
